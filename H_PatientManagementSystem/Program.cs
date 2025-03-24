@@ -470,6 +470,7 @@ namespace H_PatientManagementSystem
                         Console.WriteLine("           ║       Invalid input. Please enter a valid number.             ║");
                         Console.WriteLine("           ╚═══════════════════════════════════════════════════════════════╝");
                         //Console.WriteLine("Invalid choice. Please try again.");
+                        //new comment
                         break;
                 }
             }
